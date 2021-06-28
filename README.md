@@ -1,4 +1,4 @@
-# 102-homework
+# Groth Mindset
 
 Growth mindset is about thinking positively about your self and surroundings and knowing that every thing want a hard work and persistence to reach, Its exciting and delightful to have mindset like that that make you face the challenges with high stamina ,I think having a mindset like this will make every thing you have dreamed about possible 
 
