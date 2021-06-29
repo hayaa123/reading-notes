@@ -8,4 +8,5 @@ this reposotry contains files requered to home work in level 102 in ASAC 2021 :)
  | ----------- | -----------                                             |
  | read1       | [link](https://hayaa123.github.io/reading-notes/read1)  |
  | growth      |  [link](https://hayaa123.github.io/reading-notes/growth)|
+ | Read-02     | [link](https://hayaa123.github.io/reading-notes/Read-02)|
  
