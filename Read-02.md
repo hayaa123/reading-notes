@@ -21,6 +21,6 @@ flash card for GIT arguments
 git add .  to save the changes of file 
 git status to see and make sure what hse been added 
 git commit -m "message"  to write what the modification you done 
-git origin push    to update your GitHub with the new changes
+git push origin   to update your GitHub with the new changes
 
 ```
