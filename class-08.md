@@ -4,22 +4,22 @@
 
 1- buildig blocks
 
-    -block element --> takes the whole block in html 
-    -inline element --> takes as its content takes and continuou after te privious element directly 
+    - block element --> takes the whole block in html 
+    - inline element --> takes as its content takes and continuou after te privious element directly 
 
 2- containing element : which mean a block inide a block , we can control this by :
 
-    -positional schemes
+    - positional schemes
 
     ```
-    
+
     position : static --> every block element appeares in new line 
     position : relative --> shifting the element from were it should be
     position : absolute -->position the element in relation to its parent block + move as users scroll up and down the page
     
     ```
 
-    -box offset 
+    - box offset 
 
     ```
 
@@ -30,9 +30,9 @@
 
 3- layout types 
 
-    -fixed  ---> the design dose not change when decrease or increase the size of browser
+    - fixed  ---> the design dose not change when decrease or increase the size of browser
 
-    -liquid --> stretch and contract with the browser size
+    - liquid --> stretch and contract with the browser size
 
 4- grids 
 
