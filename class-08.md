@@ -29,9 +29,9 @@
 
 4- grids 
     we can use grid to design a more flexable designs 
+
     ```
     display : grid 
-
     ```
     we can identify how many columns we want in one row and the ratios between them and also we can nest grids
 
