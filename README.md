@@ -23,3 +23,13 @@
  | class-01    | [link](https://hayaa123.github.io/reading-notes/class-01)  |
  | class-02    |  [link](https://hayaa123.github.io/reading-notes/class-02) |
  | class-03    | [link](https://hayaa123.github.io/reading-notes/class-03)  |
+
+
+
+
+resources 
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text#drawing_text)
+- [webdesignerdepot](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+- [W2Scool](https://www.w3schools.com/)
+- duckett HTML & CSS book 
+- javascript_and_jquery_interactive_jon_du
