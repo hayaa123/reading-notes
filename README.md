@@ -3,7 +3,7 @@
 + this reposotry contains files required for home works in ASAC `2021` :)
 
 # table of content 
-# code 102 
+# Code 102 - Intro to Software Development
 
  | file name   | its link                                                |
  | ----------- | -----------                                             |
@@ -16,15 +16,28 @@
  | read6        |[link](https://hayaa123.github.io/reading-notes/read6)|
  | read7        |[link](https://hayaa123.github.io/reading-notes/read7)|
 
-# code 201 
+# Code 201 - Foundations of Software Development
 
  | file name   | its link                                                   |
  | ----------- | -----------                                                |
  | class-01    | [link](https://hayaa123.github.io/reading-notes/class-01)  |
  | class-02    |  [link](https://hayaa123.github.io/reading-notes/class-02) |
  | class-03    | [link](https://hayaa123.github.io/reading-notes/class-03)  |
+ | class-04    | [link](https://hayaa123.github.io/reading-notes/class-04)  |
+ | class-5    | [link](https://hayaa123.github.io/reading-notes/class-5)  |
+ | class-06    | [link](https://hayaa123.github.io/reading-notes/class-06)  |
+ | class-07    | [link](https://hayaa123.github.io/reading-notes/class-07)  |
+ | class-08    | [link](https://hayaa123.github.io/reading-notes/class-08)  |
+ | class-09    | [link](https://hayaa123.github.io/reading-notes/class-09)  |
+ | class-10    | [link](https://hayaa123.github.io/reading-notes/class-10)  |
 
+# Code 301 - Intermediate Software Development
 
+| file name   | discription                                                 |
+ | ----------- | -----------                                                |
+ |  [link]()    |  |
+ |  [link]()   |   |
+ |  [link]()    |   |
 
 
 resources 
