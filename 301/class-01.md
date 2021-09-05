@@ -52,6 +52,11 @@ Finally, render the Props Data
 
 one way flow (uni-directional flow) --> from parent to child 
 
+## things i would know more about
+
+-how to use component in coding 
+
+____________________________________
 resourses 
 
 [What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
