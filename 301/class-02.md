@@ -19,3 +19,8 @@ load anything using network request or initialize the do
 ## Things I want to know more about
 
 how to use react in more dynamic and flexable way and how to make a fuly functional website out of this library 
+
+
+resourses 
+
+[this](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093) blog
