@@ -59,7 +59,8 @@
 | [class-01](https://hayaa123.github.io/reading-notes/401/class-01) | pain of suffering and big O notation |
 | [class-02](https://hayaa123.github.io/reading-notes/401/class-02) | TDD and recursion                    |
 | [class-03](https://hayaa123.github.io/reading-notes/401/class-03) | read files and exceptions            |
-| [class-03](https://hayaa123.github.io/reading-notes/401/class-04) | Classes and naive recursion          |
+| [class-04](https://hayaa123.github.io/reading-notes/401/class-04) | Classes and naive recursion          |
+| [class-05](https://hayaa123.github.io/reading-notes/401/class-05) | bigO nad linked list                 |
 
 resources
 
