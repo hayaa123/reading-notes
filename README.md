@@ -62,6 +62,7 @@
 | [class-04](https://hayaa123.github.io/reading-notes/401/class-04) | Classes and naive recursion          |
 | [class-05](https://hayaa123.github.io/reading-notes/401/class-05) | bigO nad linked list                 |
 | [class-06](https://hayaa123.github.io/reading-notes/401/class-06) | Random ,Risk analysis ,test Coverage |
+| [class-07](https://hayaa123.github.io/reading-notes/401/class-07) | Scope                                |
 
 resources
 
