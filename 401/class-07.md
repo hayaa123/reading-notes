@@ -12,3 +12,4 @@
 ## resorses 
 
 [Python Scope](https://realpython.com/python-scope-legb-rule/)
+ 
