@@ -65,8 +65,7 @@
 | [class-07](https://hayaa123.github.io/reading-notes/401/class-07) | Scope                                |
 | [class-08](https://hayaa123.github.io/reading-notes/401/class-08) | List Comprehensions and decorator    |
 | [class-09](https://hayaa123.github.io/reading-notes/401/class-09) | dunder method and staticstics        |
-
-
+| [class-10](https://hayaa123.github.io/reading-notes/401/class-10) | stack and queue                      |
 
 resources
 
