@@ -22,7 +22,7 @@
 ### here is a diagram shows the difference between stack and queue
 
 
-![stack va queue](./StackAndQueue.png)
+![stack va queue](StackAndQueue.png)
 
 referance 
 
