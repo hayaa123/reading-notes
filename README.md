@@ -66,6 +66,7 @@
 | [class-08](https://hayaa123.github.io/reading-notes/401/class-08) | List Comprehensions and decorator    |
 | [class-09](https://hayaa123.github.io/reading-notes/401/class-09) | dunder method and staticstics        |
 | [class-10](https://hayaa123.github.io/reading-notes/401/class-10) | stack and queue                      |
+| [class-11](https://hayaa123.github.io/reading-notes/401/class-11) | Data Analysis numby                  |
 
 resources
 
