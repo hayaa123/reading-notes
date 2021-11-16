@@ -68,6 +68,7 @@
 | [class-10](https://hayaa123.github.io/reading-notes/401/class-10) | stack and queue                      |
 | [class-11](https://hayaa123.github.io/reading-notes/401/class-11) | Data Analysis numby                  |
 | [class-12](https://hayaa123.github.io/reading-notes/401/class-12) | Pandas                               |
+| [class-13](https://hayaa123.github.io/reading-notes/401/class-13) | Linear Regressions                   |
 
 resources
 
