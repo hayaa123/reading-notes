@@ -33,3 +33,7 @@ we can do petter in spliting the data to x and y like spliting them to testing a
 ![](https://bigdata-madesimple.com/wp-content/uploads/2016/04/Xtrain-and-Xtest.png)
 
 ![](https://bigdata-madesimple.com/wp-content/uploads/2016/04/Linear-reg.png)
+
+resorses 
+
+https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/
