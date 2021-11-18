@@ -70,6 +70,7 @@
 | [class-12](https://hayaa123.github.io/reading-notes/401/class-12) | Pandas                               |
 | [class-13](https://hayaa123.github.io/reading-notes/401/class-13) | Linear Regressions                   |
 | [class-14](https://hayaa123.github.io/reading-notes/401/class-14) | Data Visualization                   |
+| [class-15](https://hayaa123.github.io/reading-notes/401/class-15) | Tree data structure                  |
 
 resources
 
