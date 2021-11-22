@@ -72,6 +72,7 @@
 | [class-14](https://hayaa123.github.io/reading-notes/401/class-14) | Data Visualization                   |
 | [class-15](https://hayaa123.github.io/reading-notes/401/class-15) | Tree data structure                  |
 | [class-16](https://hayaa123.github.io/reading-notes/401/class-16) | mashine learning intro               |
+| [class-17](https://hayaa123.github.io/reading-notes/401/class-17) | web scrape                           |
 
 resources
 
