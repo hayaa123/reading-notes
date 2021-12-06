@@ -75,7 +75,7 @@
 | [class-17](https://hayaa123.github.io/reading-notes/401/class-17) | web scrape                           |
 | [class-18](https://hayaa123.github.io/reading-notes/401/class-18) | Automation                           |
 | [class-26](https://hayaa123.github.io/reading-notes/401/class-26) | introduction to django               |
-| [class-27](https://hayaa123.github.io/reading-notes/401/class-27) | django models              |
+| [class-27](https://hayaa123.github.io/reading-notes/401/class-27) | django models                        |
 
 resources
 
