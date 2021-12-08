@@ -77,6 +77,7 @@
 | [class-26](https://hayaa123.github.io/reading-notes/401/class-26) | introduction to django               |
 | [class-27](https://hayaa123.github.io/reading-notes/401/class-27) | django models                        |
 | [class-28](https://hayaa123.github.io/reading-notes/401/class-28) | Working with forms                   |
+| [class-29](https://hayaa123.github.io/reading-notes/401/class-29) | Django Custum User Model and django X                   |
 
 resources
 
