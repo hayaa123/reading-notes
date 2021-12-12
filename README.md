@@ -54,31 +54,32 @@
 
 # Code 401 - Advanced Software Development
 
-| file name                                                         | description                          |
-| ----------------------------------------------------------------- | ------------------------------------ |
-| [class-01](https://hayaa123.github.io/reading-notes/401/class-01) | pain of suffering and big O notation |
-| [class-02](https://hayaa123.github.io/reading-notes/401/class-02) | TDD and recursion                    |
-| [class-03](https://hayaa123.github.io/reading-notes/401/class-03) | read files and exceptions            |
-| [class-04](https://hayaa123.github.io/reading-notes/401/class-04) | Classes and naive recursion          |
-| [class-05](https://hayaa123.github.io/reading-notes/401/class-05) | bigO nad linked list                 |
-| [class-06](https://hayaa123.github.io/reading-notes/401/class-06) | Random ,Risk analysis ,test Coverage |
-| [class-07](https://hayaa123.github.io/reading-notes/401/class-07) | Scope                                |
-| [class-08](https://hayaa123.github.io/reading-notes/401/class-08) | List Comprehensions and decorator    |
-| [class-09](https://hayaa123.github.io/reading-notes/401/class-09) | dunder method and staticstics        |
-| [class-10](https://hayaa123.github.io/reading-notes/401/class-10) | stack and queue                      |
-| [class-11](https://hayaa123.github.io/reading-notes/401/class-11) | Data Analysis numby                  |
-| [class-12](https://hayaa123.github.io/reading-notes/401/class-12) | Pandas                               |
-| [class-13](https://hayaa123.github.io/reading-notes/401/class-13) | Linear Regressions                   |
-| [class-14](https://hayaa123.github.io/reading-notes/401/class-14) | Data Visualization                   |
-| [class-15](https://hayaa123.github.io/reading-notes/401/class-15) | Tree data structure                  |
-| [class-16](https://hayaa123.github.io/reading-notes/401/class-16) | mashine learning intro               |
-| [class-17](https://hayaa123.github.io/reading-notes/401/class-17) | web scrape                           |
-| [class-18](https://hayaa123.github.io/reading-notes/401/class-18) | Automation                           |
-| [class-26](https://hayaa123.github.io/reading-notes/401/class-26) | introduction to django               |
-| [class-27](https://hayaa123.github.io/reading-notes/401/class-27) | django models                        |
-| [class-28](https://hayaa123.github.io/reading-notes/401/class-28) | Working with forms                   |
-| [class-29](https://hayaa123.github.io/reading-notes/401/class-29) | Django Custum User Model and django X                   |
-| [class-30](https://hayaa123.github.io/reading-notes/401/class-30) | hash algorithm                   |
+| file name                                                         | description                           |
+| ----------------------------------------------------------------- | ------------------------------------- |
+| [class-01](https://hayaa123.github.io/reading-notes/401/class-01) | pain of suffering and big O notation  |
+| [class-02](https://hayaa123.github.io/reading-notes/401/class-02) | TDD and recursion                     |
+| [class-03](https://hayaa123.github.io/reading-notes/401/class-03) | read files and exceptions             |
+| [class-04](https://hayaa123.github.io/reading-notes/401/class-04) | Classes and naive recursion           |
+| [class-05](https://hayaa123.github.io/reading-notes/401/class-05) | bigO nad linked list                  |
+| [class-06](https://hayaa123.github.io/reading-notes/401/class-06) | Random ,Risk analysis ,test Coverage  |
+| [class-07](https://hayaa123.github.io/reading-notes/401/class-07) | Scope                                 |
+| [class-08](https://hayaa123.github.io/reading-notes/401/class-08) | List Comprehensions and decorator     |
+| [class-09](https://hayaa123.github.io/reading-notes/401/class-09) | dunder method and staticstics         |
+| [class-10](https://hayaa123.github.io/reading-notes/401/class-10) | stack and queue                       |
+| [class-11](https://hayaa123.github.io/reading-notes/401/class-11) | Data Analysis numby                   |
+| [class-12](https://hayaa123.github.io/reading-notes/401/class-12) | Pandas                                |
+| [class-13](https://hayaa123.github.io/reading-notes/401/class-13) | Linear Regressions                    |
+| [class-14](https://hayaa123.github.io/reading-notes/401/class-14) | Data Visualization                    |
+| [class-15](https://hayaa123.github.io/reading-notes/401/class-15) | Tree data structure                   |
+| [class-16](https://hayaa123.github.io/reading-notes/401/class-16) | mashine learning intro                |
+| [class-17](https://hayaa123.github.io/reading-notes/401/class-17) | web scrape                            |
+| [class-18](https://hayaa123.github.io/reading-notes/401/class-18) | Automation                            |
+| [class-26](https://hayaa123.github.io/reading-notes/401/class-26) | introduction to django                |
+| [class-27](https://hayaa123.github.io/reading-notes/401/class-27) | django models                         |
+| [class-28](https://hayaa123.github.io/reading-notes/401/class-28) | Working with forms                    |
+| [class-29](https://hayaa123.github.io/reading-notes/401/class-29) | Django Custum User Model and django X |
+| [class-30](https://hayaa123.github.io/reading-notes/401/class-30) | hash algorithm                        |
+| [class-31](https://hayaa123.github.io/reading-notes/401/class-31) | Django REST Framework & Docker        |
 
 resources
 
