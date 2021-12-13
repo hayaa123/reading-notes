@@ -80,6 +80,7 @@
 | [class-29](https://hayaa123.github.io/reading-notes/401/class-29) | Django Custum User Model and django X |
 | [class-30](https://hayaa123.github.io/reading-notes/401/class-30) | hash algorithm                        |
 | [class-31](https://hayaa123.github.io/reading-notes/401/class-31) | Django REST Framework & Docker        |
+| [class-32](https://hayaa123.github.io/reading-notes/401/class-32) | Permissions                           |
 
 resources
 
