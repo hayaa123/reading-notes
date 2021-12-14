@@ -81,6 +81,7 @@
 | [class-30](https://hayaa123.github.io/reading-notes/401/class-30) | hash algorithm                        |
 | [class-31](https://hayaa123.github.io/reading-notes/401/class-31) | Django REST Framework & Docker        |
 | [class-32](https://hayaa123.github.io/reading-notes/401/class-32) | Permissions                           |
+| [class-33](https://hayaa123.github.io/reading-notes/401/class-33) | Authentication & Production Server    |
 
 resources
 
