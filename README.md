@@ -82,7 +82,8 @@
 | [class-31](https://hayaa123.github.io/reading-notes/401/class-31) | Django REST Framework & Docker        |
 | [class-32](https://hayaa123.github.io/reading-notes/401/class-32) | Permissions                           |
 | [class-33](https://hayaa123.github.io/reading-notes/401/class-33) | Authentication & Production Server    |
-| [class-34](https://hayaa123.github.io/reading-notes/401/class-34) | API Deployment    |
+| [class-34](https://hayaa123.github.io/reading-notes/401/class-34) | API Deployment                        |
+| [class-35](https://hayaa123.github.io/reading-notes/401/class-35) | Graphs                                |
 
 resources
 
