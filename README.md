@@ -84,6 +84,7 @@
 | [class-33](https://hayaa123.github.io/reading-notes/401/class-33) | Authentication & Production Server    |
 | [class-34](https://hayaa123.github.io/reading-notes/401/class-34) | API Deployment                        |
 | [class-35](https://hayaa123.github.io/reading-notes/401/class-35) | Graphs                                |
+| [class-36](https://hayaa123.github.io/reading-notes/401/class-36) | Whiteboard Interview Advice           |
 
 resources
 
