@@ -86,6 +86,7 @@
 | [class-35](https://hayaa123.github.io/reading-notes/401/class-35) | Graphs                                |
 | [class-36](https://hayaa123.github.io/reading-notes/401/class-36) | Whiteboard Interview Advice           |
 | [class-37](https://hayaa123.github.io/reading-notes/401/class-37) | React , tailwind and next.js          |
+| [class-38](https://hayaa123.github.io/reading-notes/401/class-38) | React          |
 
 resources
 
