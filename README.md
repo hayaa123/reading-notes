@@ -89,7 +89,8 @@
 | [class-38](https://hayaa123.github.io/reading-notes/401/class-38) | React          |
 | [class-39](https://hayaa123.github.io/reading-notes/401/class-39) | React          |
 | [class-40](https://hayaa123.github.io/reading-notes/401/class-40) | Next Js          |
-
+| [class-42](https://hayaa123.github.io/reading-notes/401/class-42) |          |
+| [class-43](https://hayaa123.github.io/reading-notes/401/class-43) | OSS Contributions         |
 resources
 
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text#drawing_text)
